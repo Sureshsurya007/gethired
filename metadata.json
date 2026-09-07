@@ -1,0 +1,6 @@
+{
+  "name": "GradLaunch",
+  "description": "Discover entry-level jobs, local networking events, personalized career alerts, resume tools, and an interactive mock interview simulator for recent graduates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
